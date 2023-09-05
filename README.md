@@ -2,6 +2,8 @@
   Landing page Igreja Bíblica da paz
 </h1>
 
+![github](https://github.com/Henriquesantos12/Plataforma-IBP/assets/114838533/e0a354c8-fd7b-41df-9e88-ed1c9340c3c1)
+
 ## 💻 Projeto
 
 Esta é uma Landing page criada para uma Igreja
