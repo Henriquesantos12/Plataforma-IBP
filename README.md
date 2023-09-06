@@ -12,6 +12,7 @@ Esta é uma Landing page criada para uma Igreja
 
 - HTML
 - CSS
+- Animações | Keyframes
 - JavaScript
 - GIT e GITHUB
 
