@@ -56,3 +56,17 @@ strong{
     gap: 1rem;
     align-items: center;
 }
+
+.first-section img{
+    animation: float 3s ease-in-out infinite;
+}
+
+@keyframes float {
+    0%, 100% {
+        transform: translateY(0);
+    }
+
+    50% {
+        transform:translateY(-50px) ;
+    }
+}
